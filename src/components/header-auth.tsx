@@ -37,7 +37,7 @@ export default function HeaderAuth() {
           </div>
         </PopoverContent>
       </Popover>
-    );
+    ); 
   } else {
     authContent = (
       <>
